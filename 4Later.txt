@@ -1,3 +1,0 @@
-#add Dark theme
-#add Animation
-#add hover effects 
